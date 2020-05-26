@@ -1,3 +1,5 @@
+## This text file was sent from Forma AI for the SQL takehome assignment for the data analyst role. The text file includes an explanation of the sqlite database that was sent and the questions that need to be answered.
+
 # SQL Problem
 
 This question will test some basic knowledge of SQL. The first four questions should
